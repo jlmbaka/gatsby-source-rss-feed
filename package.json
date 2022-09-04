@@ -24,6 +24,7 @@
     "@babel/preset-env": "7.9.5"
   },
   "dependencies": {
+    "gatsby-source-filesystem": "^4.22.0",
     "lodash": "^4.17.15",
     "rss-parser": "^3.7.6"
   },
